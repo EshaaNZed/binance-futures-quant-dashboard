@@ -133,19 +133,6 @@ Single process  → Celery workers
 Local demo      → Docker + Kubernetes
 
 
-
-🤖 AI Usage Transparency
-ChatGPT/Perplexity Usage:
-
-✅ Project scaffolding (file structure)
-✅ Binance WS integration (HTML → Python)
-✅ Streamlit key collision fixes
-✅ Git setup + .gitignore
-✅ Architecture explanation
-❌ Core analytics logic (OLS, z-score, ADF)
-❌ All business logic + data processing
-Time Investment: ~4 hours (mostly debugging Streamlit quirks)
-
 📈 Gemscap Fit
 Why this demonstrates quant skills:
 
